@@ -1,0 +1,95 @@
+
+/* xxl Device */
+
+@media  (min-width: 1200px) and (max-width: 1399px) {
+
+}
+
+
+
+/* lg device */
+@media  (min-width: 992px)  and (max-width: 1199px) {
+    .tetimonial-item {
+        padding: 24px;
+        
+    }
+}
+
+
+
+/* md device */
+@media  (min-width: 768px) and (max-width: 991px) {
+    .about-p {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+    .about-p2 {
+        margin-bottom: 0 !important;
+    }
+    .about-pic2 img {
+        margin-top: 20px !important;
+    }
+    .about-content {
+        margin-top: -10px;
+    }
+    .number-counter {
+        padding: 55px 0;
+    }
+    .card-item {
+        padding: 30px 5px;
+    }
+    .card-item ul li {
+        line-height: 25px;
+     
+    }
+    .two-four{
+        margin-top: 130px;
+    }
+}
+
+
+
+/* sm device*/
+@media  (min-width: 576px)  and (max-width: 767px) {
+    .banner-content {
+        margin-top: 26px;
+    }
+    .number-counter {
+        padding: 35px 0;
+    }
+    .two{
+        margin-top: 130px;
+    }
+    .two-four{
+        margin-top: 130px;
+    }
+}
+
+
+
+/* X-smal device */
+@media  (max-width: 576px) {
+    .banner-content {
+        margin-top: 26px;
+    }
+    .about-p{
+        margin-top: -5px !important;
+    }
+    .number-counter {
+        padding: 35px 0;
+      
+    }
+    .number-counter-item {
+        margin: 20px 0;
+    }
+    .two{
+        margin-top: 130px;
+    }
+    .two-four{
+        margin-top: 130px;
+    }
+    .footer-content {
+        padding: 0 15px;
+    }
+}
+

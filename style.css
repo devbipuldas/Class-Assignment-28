@@ -1,0 +1,79 @@
+body,  h1,  h2,  h3,  h4,  h5,  h6,  p {
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.navbar-logo{
+    width: 90px;
+}
+.banner-content{
+    margin-top: 125px;
+}
+.banner-btn{
+    background-color: #8490ff;
+    border: none;
+    color: white;
+}
+.about-p2{
+    font-size: 14px;
+}
+.about-pic2{
+    border: 1px solid #ddd;
+    
+}
+.about-btn{
+    background-color: #8490ff;
+    border: none;
+    color: white;
+}
+.number-counter-item{
+text-align: center;
+}
+.number-counter{
+    background-color:#8490ff;
+    padding: 70px 0;
+}
+.card-item{
+    box-shadow: 4px 4px 20px rgba(0,0,0,.13);
+    padding: 30px;
+}
+.card-item ul  {
+    padding-left: 0;
+}
+.card-item ul li {
+    list-style: none;
+    line-height: 55px;
+    color: #767676;
+}
+.testimonial-section{
+    margin-top: 130px;
+}
+.tetimonial-item{
+    box-shadow: 4px 4px 20px rgba(0,0,0,.13);
+    padding: 30px;
+    box-sizing: border-box;
+}
+.testimonial-pic{
+    width: 100px;
+    margin-top: -100px;
+}
+.testimonial-title {
+	margin-top: 15px;
+}
+.testimonial-subtitle{
+    margin-top: -6px;
+}
+.testimonial-text{
+	margin-top: 25px;
+}
+.contact-form{
+    box-shadow: 4px 4px 20px rgba(0,0,0,.13);
+    padding: 40px;
+    box-sizing: border-box;
+}
+.con-buttan{
+    margin-bottom: 0 !important;
+    background-color: #17a2b8;
+    border: none;
+}
